@@ -1,6 +1,11 @@
 # JetPackComposeToDO
 # Kotlin JetPackCompose with Dagger di and MVVM ToDO app 
 
+![compose](https://github.com/user-attachments/assets/adb02d96-fde8-4872-9956-29df4e0903f4)![1_NvvHhA24kizVjj7W50AnuA](https://github.com/user-attachments/assets/053656e8-8f06-4604-a5aa-a714f90b4fd9)![hq720](https://github.com/user-attachments/assets/8d6c3f23-4057-45ef-a950-bec8e3dd0c7e)
+
+
+
+
 ![todo1](https://github.com/user-attachments/assets/822b0215-e127-4274-8443-6125d58853f5)
 ![todo2](https://github.com/user-attachments/assets/bf5f2a18-bedf-4143-9037-eebe750cd19b)
 ![todo3](https://github.com/user-attachments/assets/bcac08dd-664f-4183-b9d9-8f6f779dbde9)
