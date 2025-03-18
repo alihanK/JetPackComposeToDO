@@ -2,7 +2,8 @@
 # Kotlin JetPackCompose with Dagger di and MVVM ToDO app & ROOM LOCAL DATABASE
 
 ![compose](https://github.com/user-attachments/assets/adb02d96-fde8-4872-9956-29df4e0903f4)![1_NvvHhA24kizVjj7W50AnuA](https://github.com/user-attachments/assets/053656e8-8f06-4604-a5aa-a714f90b4fd9)![hq720](https://github.com/user-attachments/assets/8d6c3f23-4057-45ef-a950-bec8e3dd0c7e)
-![maxresdefault](https://github.com/user-attachments/assets/eb71b2d4-0d88-471e-ac81-d0a2aeee5eb1)
+![maxresdefault](https://github.com/user-attachments/assets/0a658bfd-d932-4f95-8667-83edaf1a936e)
+
 
 
 
