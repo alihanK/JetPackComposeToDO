@@ -3,7 +3,6 @@
 
 ![compose](https://github.com/user-attachments/assets/adb02d96-fde8-4872-9956-29df4e0903f4)
 ![1_NvvHhA24kizVjj7W50AnuA](https://github.com/user-attachments/assets/053656e8-8f06-4604-a5aa-a714f90b4fd9)
-![hq720](https://github.com/user-attachments/assets/8d6c3f23-4057-45ef-a950-bec8e3dd0c7e)
 ![Dagger2_logo](https://github.com/user-attachments/assets/8d879344-94bd-4ca1-8769-472b744825f5)
 
 
